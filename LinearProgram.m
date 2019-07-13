@@ -1,6 +1,5 @@
-% Matlab解法
+% Matlab
 
-% 标准形式为:
 % min c^Tx
 % s.t.
 %     Ax <= b
